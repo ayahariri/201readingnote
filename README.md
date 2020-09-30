@@ -6,4 +6,3 @@ Table of Content
 
 - Markdown on Github
 - All about the Github
-
