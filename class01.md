@@ -133,7 +133,7 @@ You can use grouping and similarity to help simplify the information you present
 
 A consitency in a design is very important in order to keep the design and typography visually presentable.
 
-## All About CSS
+## More about CSS
 
 CSS is the cascading style sheet that is responsible for how the web page will look like. It allows you to create rules that specify how the content of an element should appear.
 We will cover the following topics below:
@@ -196,10 +196,9 @@ There are many different types of CSS selector that allow you to target rules to
 
 You can check my readme.md notes;[View link](https://ayahariri.github.io/Reading-Notes/Read05)
 
+## How do computers work
 
-# How do computers work
-
-## What makes a computer functioning
+### What makes a computer functioning
 
 Throughout the years, we have always built tools in order to solve problems. Back in the days, these tools were were help for the manual labor, such as;
 
@@ -218,15 +217,15 @@ In order to create a thinking machine, 4 tasks were needed to be done:
 
 All 4 mentioned aspects are found in common in **ALL** computers.
 
-### 1. Input
+#### 1. Input
 
 The input takes what the user is currently doing on the computer (scrolling, clicking, etc)
 
-### 2. Storage & Processing
+#### 2. Storage & Processing
 
 All the inputs are then stored in the memory (which is the storage). Then the computer's processor takes the information from the memory and manipulates it using *algorithms* into series of commands, then sends the information back to the stored memory again.
 
-### 3. Output
+#### 3. Output
 
 How a computer outputs information depends on what the computer's designed to do.
 
@@ -236,7 +235,7 @@ A computer display can show:
 - photos
 - videos
 
-## Hardware & Software
+### Hardware & Software
 
 The hardware is the combination of different elemts inside a computer;
 
@@ -252,7 +251,7 @@ The software in other words is what we do not see in a computer.
 
 ### How do hardwares and softwares interact with one another
 
-### 1. CPU
+#### 1. CPU
 
 The central processing unit (CPU) is the master chip that controls all the other parts of the computer. It needs to do different things,so for this reason it has a wide range of simpler parts that handle specific tasks.
 
@@ -261,7 +260,7 @@ It contains:
 - circuit to handle math and logic
 - circuits to send information to and from different parts of the computer
 
-### 2. Binary Code
+#### 2. Binary Code
 
 The binary code is the most basic form of software and controls all the hardware of a computer. (Programing Languages)
 
@@ -273,3 +272,60 @@ Circuits are mini electronic components joined together.
 
 *Simple circuit* take an electronic signal and then flip it this means if signla is 1, circtuit gives you a 0 and vis versa.
 *complicated circuit* can take multiple signals and combine them, thus giving you a different result.  For this example, a circuit would take 2 electrical signals (same or different), the results will still be a 0, unless both are 1 and 1.
+
+## The Realm of Javascript
+
+Being able to change the content of an HTML page while it is loaded in the browser is very powerful. The examples below rely on the ability to:
+
+- Access the content of the page
+  - Modify the content of the page
+    - Program rules or instructions the browser can follow
+      - React to events triggered by the user or browser
+
+Before stepping into the realm of programming, we first need to learn the ABC's of the language itself.
+A. What is a script and how do I create one?
+B. How do computers fit in with the world around them?
+C. How do I write a script for a web page?
+
+***A. What is a Script?***
+A script is a series of instructions that a computer can follow to achieve a goal. In order to write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. You can use the following to simply your goal:
+
+1. **DEFINE THE GOAL**
+2. **DESIGN THE SCRIPT** by splitting the goal out into a series of tasks that are going to be involved in order to execute what is in mind.
+3. **CODE EACH STEP** each of the steps needs to be written in a programming language (JavaScript) that the computer understands. (Vocabulary & Syntax are very important to learn).
+
+- Flowcharts are a good tool to create to work out how the tasks fit together. The flowcharts show the paths between each step.
+
+***B. How do computers fit in with the world around them?***
+
+In Javascript or any computer programming, the focus is on 2 things:
+
+OBJECTS (THINGS) | PROPERTIES (CHARACTERISTICS)
+----|------
+Each object have their own properties, events * methods | Each property has a name, value, and each of these name/value pairs tells you something about each individual instance of the object
+
+### How can people interact with objects
+
+There are common ways in which people interact with each type of object.
+
+- An event is the computer's way of sticking up its hand to say, "Hey, this just happened!" After, that event can be used to trigger a specific section of the code.
+- Methods typically represent how people (or other things) interact with an object in the real world. The code for a method can contain lots of instructions that together represent one task.
+
+***C. How do I write a Script for a web page?***
+
+A JavaScript fi le is just a
+text file (like HTML and CSS filesare)butithasa.jsfile extension, so save this file with the name add-content.js
+
+When you want to use JavaScript with a web page, you use the HTML < script > element to tell the browser it is coming across a script.
+Its sre attribute tells people where the JavaScript file is stored. This is basically linking the JS onto the HTML such as:
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Constructive &amp; Co.</ title>
+<link rel ="stylesheet" href="css/ cOl.css" />
+</ head> <body>
+<hl>Constructive &amp; Co.</hl>
+<script src="js/ add-content.js"></ script> <p>For all orders and inquiries please call
+<em>SSS-3344</ em></ p> </ body>
+</html>

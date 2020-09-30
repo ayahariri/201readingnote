@@ -4,7 +4,7 @@ This site will cover all the material for the 201 coding course in a summarized 
 
 Table of Content
 
-- [Brief for HTML, CSS & Javascript](https://ayahariri.github.io/201readingnote/classo1)
-   1. HTML
-   2. CSS
-   3. Javascript
+- [Brief for HTML, CSS & Javascript](https://ayahariri.github.io/201readingnote/class01)
+   1. All about HTML
+   2. More about CSS
+   3. The realm of Javascript
