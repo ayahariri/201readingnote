@@ -22,8 +22,8 @@ The number of hashtags # will determine the size from largest to smallest. (#>##
 
 The following are several ways on how  to style a text:
 
-- Bold (2starsTEXT2stars or __ TEXT __ ; **TEXT**)
-- Italic (1starTEXT1star or _ TEXT _ ; *TEXT8)
+- Bold (2starsTEXT2stars or 2underlineTEXT2underline; **TEXT**)
+- Italic (1starTEXT1star or 1underlineTEXT1underline ; *TEXT8)
 - Strikethrough (~ TEXT ~ attached ; ~TEXT~)
 - Bold & Italic (2stars+1underlineTEXT2stars+1underline ; **_TEXT_**)
 - All Bold & Italic (3starsTEXT3stars ; ***TEXT***)

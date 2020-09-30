@@ -11,4 +11,4 @@ GitHub pages are public webpages hosted and easily published through GitHub. The
    - Name the repo
    - Go to *Settings* to choose a theme "Jeykell"
 
-   There are two ways to write the content, either through github itself or through the ACP command on terminal.
+   There are two ways to write the content, either through github itself or through the ACP command on terminal
