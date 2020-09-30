@@ -4,5 +4,5 @@ This site will cover all the material for the 201 coding course in a summarized 
 
 Table of Content
 
-- [Markdown on Github](https://ayahariri.github.io/201readingnote/Markdown)
-- All about the Github
+- [Markdown on Github](https://ayahariri.github.io/201readingnote/markdown)
+- [All about the Github](https://ayahariri.github.io/201readingnote/github)

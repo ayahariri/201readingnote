@@ -76,10 +76,6 @@ You can get more details about [the listing and tasks](https://docs.github.com/e
 
 ### Mentions
 
-You can mention a person or team on GitHub by typing the @ and their username or team name. This will trigger a notification and bring their attention to the conversation. 
+You can mention a person or team on GitHub by typing the @ and their username or team name. This will trigger a notification and bring their attention to the conversation.
 
 @github/support What do you think about these reading notes?
-
-
-
-
