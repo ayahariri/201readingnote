@@ -116,7 +116,7 @@ Evaluation a situation is done by comparing values, through true of false (*bool
 - > (greater than)
 - < (less than)
 - >= (greater than or equal to)
-- <= (less than or equal to)
+- <= (less than or equal to)s
 - && (logical and operator)
 - || (logical or)
 - ! (logical not)
