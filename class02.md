@@ -78,6 +78,51 @@ In this casa, **document** is the *object* that represents the entire web page. 
 
 **Variables** are very important to make the script store its data.
 
+In this example: var quantity;  the *var* is the variable keyword, while *quantity* is the variable name
+Once a variable is created, you can add the information you would like it to store, such as: quantity = 3; where *quantity* is the variable name, *=* is the assignment operator and *3* is the variable value. When naming variables you need to make sure that it starts with a letter, $ or _, adding a capital letter ad the second word (i.e firstName ). *Arrays* are a type of variable, but instead stores a list of values.
+
+There are 3 basic data types for javascript to distinguish and implement them;
+
+1. Numeric Data Type (i.e 0.50)
+2. String Data Type (i.e 'Hello, Aya!')
+3. Boolean Data Type (i.e true/false)
+
+### Arithmetic Operators
+
+Name | Operator | Purpose & Example
+------|--------|-------
+Addition | + | Adds a value to another (i.e 10+5 Result 5)
+Substraction | - | Substracts one value from another (i.e 10-5 Result 5)
+Division | / | Divides two values (i.e 10/5 Result 2)
+Multiplication | star | Multiplies two values (i.e 10 *5 Result 50)
+Increment | ++ | Adds one to the current number (i.e i=10;i++; Result 11)
+Decrement | -- | Substracts one from the current number (i.e i+10;i--; Result 9)
+
+### Ways to create and control the flow of data
+
+*Evaluations* ; can analyze values and determine if they match expected results
+*Decisions* ; using the result of the evalution, can decide which path your script should do
+*Loops* ; to create the same set of steps more than once.
+
+JavaScript is specific in which decisions the position of the script determines which lines of code should be run next.
+This is sometimes used through *conditions*, which is the if{(age>20)document.write('young'); }
+
+Evaluation a situation is done by comparing values, through true of false (*boolean*) ; 
+
+- == (is equal to)
+- != (is not equal to)
+- === (is strict equal to)
+- !== (is strict not equal to)
+- > (greater than)
+- < (less than)
+- >= (greater than or equal to)
+- <= (less than or equal to)
+- && (logical and operator)
+- || (logical or)
+- ! (logical not)
+
 ### Additional Information for JS (not basic)
 
-Comments are used to explain the code below or add a comment by simply using /*
+- **Comments** are used to explain the code below or add a comment by simply using /*.
+- **Expressions** evaluate results into one single value, and rely on *operators* Operators create a single value from one or more values.
+- Creating a **date object**, formats are usually used (i.e YYY, MM, DD, HH, MM, SS)
