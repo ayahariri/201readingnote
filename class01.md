@@ -1,4 +1,4 @@
-# INTRODUCTION TO HTML & CSS
+# Quick Brief for HTML, CSS & Javascript
 
 ## All about HTML
 
