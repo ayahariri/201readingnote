@@ -9,7 +9,7 @@ HTML provides us with four different ways to display content:
     - Definition Lists < dl >
       - Nested Lists (adding second list inside first)
 
-    Each list type contains items known as < li >, as sees on the table below:
+    Each list type contains items known as < li >, as seen below:
 
     Example for *Ordered List*:
 
