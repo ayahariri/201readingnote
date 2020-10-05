@@ -107,7 +107,7 @@ Decrement | -- | Substracts one from the current number (i.e i+10;i--; Result 9)
 JavaScript is specific in which decisions the position of the script determines which lines of code should be run next.
 This is sometimes used through *conditions*, which is the if{(age>20)document.write('young'); }
 
-Evaluation a situation is done by comparing values, through true of false (*boolean*) ; 
+Evaluation a situation is done by comparing values, through true of false (*boolean*) ;
 
 - == (is equal to)
 - != (is not equal to)
