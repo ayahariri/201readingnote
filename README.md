@@ -10,4 +10,4 @@ This site will cover all the material for the 201 coding course in a summarized 
 - [HTML tags refresher](https://ayahariri.github.io/201readingnote/class02)
 - [Ways to utilize CSS](https://ayahariri.github.io/201readingnote/class02)
 - [Creating data on JS](https://ayahariri.github.io/201readingnote/class02)
-- [Lists & Boxes on HTML](https://ayahariri.github.io/201readingnote/class03)
+- [Lists & Boxes on HTML/CSS](https://ayahariri.github.io/201readingnote/class03)

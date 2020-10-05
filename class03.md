@@ -1,6 +1,6 @@
-# Lists & Boxes in HTML
+# Lists & Boxes in HTML & CSS
 
-## Lists
+## Lists (HTML)
 
 HTML provides us with four different ways to display content:
 
@@ -47,4 +47,24 @@ HTML provides us with four different ways to display content:
  < li > SUBTEXT 3 < / li >
  < / ul >
 
-## Boxes
+## Boxes (CSS)
+
+Boxes are basically how CSS treats each *HTML element* as if they were inside a box. There are properties that affect the appearance of these boxes, which are.
+
+### Box Dimension (widht,height)
+
+The size of the box is already set by default to fit the content. To manage and control it's size, **the height property* and *width property* come in hand.
+
+There is also a property to limit the width and height, which go by (respectively)
+
+- "min-width" and "max-width"
+- "min-height" and "max-height"
+
+In case of an of extra content, the overflow property is used to either hide the content or make it scrollable, such as:
+
+- "overflow: hidden;"
+- "overflow: scroll;"
+
+### Border, Margin & Padding
+
+![Border, Margin & Padding ](https://sabe.io/classes/css/css-box-model-padding-border-margin/css-box-model.png)
