@@ -1,4 +1,4 @@
-# Lists & Boxes in HTML & CSS
+# Lists, Boxes, Borders & their design in HTML & CSS
 
 ## Lists (HTML)
 
@@ -71,4 +71,65 @@ Every box has several properties that can be adjusted to control the way it look
 
 ![Border, Margin & Padding ](https://sabe.io/classes/css/css-box-model-padding-border-margin/css-box-model.png)
 
-You can control their display by u
+#### BORDER
+
+You can control their display and looks by using different property which goes for:
+
+- border-width: You can be more specific by using the sides as a seperate property:
+   border-top-width OR border-bottom-width OR border-right-width OR border-left-width
+- border-style: You can be more specific by selecting the style:
+   border-style: solid; one line
+   border-style: dotted; dotted line
+   border-style: dashed; short lines line
+   border-style: double; two lines
+   border-style: groove; carved effect
+   border-style: ridge; sticking out of frame
+- border-color: You can specify which side to be which color by:
+   border-top-color OR border-bottom-color OR border-right-color OR border-left-color
+
+   There is a simpler way to display all the properties under one property. For example:
+
+p {
+    border: 3px dotted white;}
+
+- border-image: You can apply an image to the border of any box ; border-image: url("")
+- border-radius: Creating rounded corners
+
+#### MARGIN & PADDING
+
+*Padding* and *Margin* are properties that help you add space around the element in question.
+
+The **padding** property allow us to control how much space is between the content of an element and it's *border* --> "padding: ;"
+
+The **margin** property controls the gap between boxes. --> "margin: ;" You can center a box on the page or inside the element by setting the *left-margin* and *right-margin*
+
+The *display* property allows you to control it's display:
+   display: inline;
+   display: block;
+   display: inline-block;
+   display: none;
+
+   You can add a *shadow effect* by using the property box-shadow by applying the horizontal, vertical offset and the blur distance and spread of shadow. Example: box-shadow: 5px 5px 5px black;
+
+## How to use JavaScript
+
+### Variables
+
+There are several ways to utilize variables in Javascript:
+
+1. To store a Boolean such as
+2. Shortcuts for variables
+3. Changing the value of a variable
+
+### Comparing Expressions
+
+Javascript allow us to compare two or more different expressions by using:
+
+- *comparison operators* usually return single values of **true** or **false**. [More about operators!](https://ayahariri.github.io/201readingnote/class02)
+- *if statements* check a condition, and depending on the answer will go to second code block.
+- *switch statements* must first start with a switch value, then cases that indicate a possible value for this variable and which code should run if variable matches value.
+- [*true and false values*](https://www.sitepoint.com/javascript-truthy-falsy/)
+
+### Checking a Condition
+
+**Loops** check if a condition turns *true*, a code block will run. It will keep running until the return is *false*.

@@ -49,7 +49,7 @@ The *internal* use is simply adding a style tag < style > in the body, preferabl
 
 #### C. Inline use of CSS
 
-The *inline* refers to adding the css style inside an html tag. For example: 
+The *inline* refers to adding the css style inside an html tag. For example:
 < p style = "color:green;">
 
 ### CSS Selectors
