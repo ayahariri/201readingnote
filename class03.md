@@ -67,4 +67,8 @@ In case of an of extra content, the overflow property is used to either hide the
 
 ### Border, Margin & Padding
 
+Every box has several properties that can be adjusted to control the way it looks, such as the picture below:
+
 ![Border, Margin & Padding ](https://sabe.io/classes/css/css-box-model-padding-border-margin/css-box-model.png)
+
+You can control their display by u
