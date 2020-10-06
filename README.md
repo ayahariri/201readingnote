@@ -13,3 +13,4 @@ This site will cover all the material for the 201 coding course in a summarized 
 - [Lists, Boxes in HTML](https://ayahariri.github.io/201readingnote/class03)
 - [Borders & Content Design CSS](https://ayahariri.github.io/201readingnote/class03)
 - [How to use JavaScript](https://ayahariri.github.io/201readingnote/class03)
+- [Links on HTML](https://ayahariri.github.io/201readingnote/class04)
