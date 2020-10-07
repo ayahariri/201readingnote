@@ -16,3 +16,4 @@ This site will cover all the material for the 201 coding course in a summarized 
 - [Links on HTML](https://ayahariri.github.io/201readingnote/class04)
 - [Positioning in CSS](https://ayahariri.github.io/201readingnote/class04)
 - [JavaScript Basics & Pair Programming](https://ayahariri.github.io/201readingnote/class04)
+- [Using Images, Forms & Text on HTML & CSS](https://ayahariri.github.io/201readingnote/class05)
