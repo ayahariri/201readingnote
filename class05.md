@@ -103,4 +103,4 @@ We can go deeper in the design and control the weight (light - medium - bold - b
 - vertical-align ; allow you to vertically align text in the middle of the block level element.
 - text-indent ; allow you to indent the first line of text within an element.
 - text-shadow ; allow you to create a shadow effect, all sides must be mentioned)
-- :link, :visited ; allow you to set styles for links that have not been visited, and visited will alow you to create a style for when link is visited.
+- :link, :visited ; allow you to set styles for links that have not been visited, and visited will allow you to create a style for when link is visited.
