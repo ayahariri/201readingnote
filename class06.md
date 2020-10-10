@@ -1,4 +1,4 @@
-# Javascript Functions & HTML Dom Tree
+# Javascript Functions & HTML DOM Tree
 
 ## JavaScript & their functions
 
@@ -61,6 +61,51 @@ There are different things to select elements for the Nodes, such as:
 - selecting elements by tag names
 - selecting elements using CSS selectors
 
+### Adding or Removing HTML content
+
+There are two different ways to adding or removing content on HTML:
+
+1. from a DOM tree: the innerHTML propoerty, or
+2. the DOM manipulation.
+
+#### Adding elements and removing using Dom Manipulation
+
+Dom manipulation offers another technique to add new content on a page:
+
+1. *Create the element*
+createElement()
+2. *Give it content*
+createTextNode()
+3. Add it to the DOM
+appendChild()
+
+Dom manipulation can also be used to remove elements from the DOM tree:
+
+1. *Store the element to be removed in a variable
+2. Store the parent of that element in a variable
+3. Remove the element from it's containing element
+
+#### The innerHTML property
+
+It is important to know that there are security risks associated with the innerHTML.
+
+To **add** new content, you must follow these steps:
+
+- Store new content as a string in a variable
+- Select the element whose content you want to replace
+- Set the element's innerHTML property to be the new string.
+
+To **remove** new content, you must follow this step:
+
+- set the innerHTML to an empty string
+
+### Advantages and Disadvantages of updting HTML content
+
+CODE | ADVANTAGES | DISADVANTAGES
+-----|------------|---------------
+document.write() | quick way to show beginners how content can be added to a page | only works when the page initially loads, if used after the page loaded it can overwrite the whole page, not add content or create a new page by mistake. Causes problems with XHTML pages.
+element.innerHTML | can add a lot of markup using less code, is simple and faster than DOM manipulation when adding a lot of content.
+DOM Manipulation | good for changing one element from a DOM fragment in between a lot of files. Doesn't affect event handlers, easily allows script to add elements | slower than innerHTML when wanted to change a lot of the content, you need to write more code for what you want to achieve
 
 ## The Problem Domain
 
