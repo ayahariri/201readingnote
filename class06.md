@@ -104,7 +104,7 @@ To **remove** new content, you must follow this step:
 CODE | ADVANTAGES | DISADVANTAGES
 -----|------------|---------------
 document.write() | quick way to show beginners how content can be added to a page | only works when the page initially loads, if used after the page loaded it can overwrite the whole page, not add content or create a new page by mistake. Causes problems with XHTML pages.
-element.innerHTML | can add a lot of markup using less code, is simple and faster than DOM manipulation when adding a lot of content.
+element.innerHTML | can add a lot of markup using less code, is simple and faster than DOM manipulation when adding a lot of content | should not be used to add content that came from user, as it can cause high security risk, it is difficult to isolate single elements that you want to update within a larger DOM
 DOM Manipulation | good for changing one element from a DOM fragment in between a lot of files. Doesn't affect event handlers, easily allows script to add elements | slower than innerHTML when wanted to change a lot of the content, you need to write more code for what you want to achieve
 
 ## The Problem Domain
