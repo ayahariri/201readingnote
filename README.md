@@ -18,5 +18,6 @@ This site will cover all the material for the 201 coding course in a summarized 
 - [JavaScript Basics & Pair Programming](https://ayahariri.github.io/201readingnote/class04)
 - [Using Images, Forms & Text on HTML & CSS](https://ayahariri.github.io/201readingnote/class05)
 - [Javascript Functions & HTML DOM Tree](https://ayahariri.github.io/201readingnote/class06)
--[The Domain Modeling in JavaScript](https://ayahariri.github.io/201readingnote/class07)
--[Tables on HTML/CSS](https://ayahariri.github.io/201readingnote/class07)
+- [The Domain Modeling in JavaScript](https://ayahariri.github.io/201readingnote/class07)
+- [Tables on HTML/CSS](https://ayahariri.github.io/201readingnote/class07)
+- [More about Layout in HTML & CSS](https://ayahariri.github.io/201readingnote/class08)
