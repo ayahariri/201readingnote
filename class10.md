@@ -15,9 +15,9 @@ Execution Function | Variable Scope
 
 The *console* and *dev* are tools built in the browser that can help retrace the errors. Error objects can help you find where your mistakes are and browsers have tools to help you read them.
 
-![Table Error Objects & Properties]("/Users/user/201readingnote/img/errors.png")
-![Syntax & Referrence Errors]("syntax-errors.png)
-![Type & Range Errors]("errors2.png")
+![Table Error Objects & Properties](img/errors.png)
+![Syntax & Referrence Errors](img/syntax-errors.png)
+![Type & Range Errors](img/errors2.png)
 
 *Common problems* are sources of errors, and how to solve them.
 
