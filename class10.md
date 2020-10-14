@@ -15,9 +15,9 @@ Execution Function | Variable Scope
 
 The *console* and *dev* are tools built in the browser that can help retrace the errors. Error objects can help you find where your mistakes are and browsers have tools to help you read them.
 
-![Table Error Objects & Properties]("img/errors.png")
-![Syntax & Referrence Errors]("img/syntax-errors.png)
-![Type & Range Errors]("img/errors2.png")
+![Table Error Objects & Properties]("errors.png")
+![Syntax & Referrence Errors]("syntax-errors.png)
+![Type & Range Errors]("errors2.png")
 
 *Common problems* are sources of errors, and how to solve them.
 
@@ -29,15 +29,9 @@ Once the error is pin pointed out, there are two ways to deal with them;
 2. Handle errors gracefully using try(specify the code
 that you think might throw an exception within the try block.), catch(if the try code block throws an exception, catch steps in with an alternative set of code.), and fina1ly(The contents of the fi na11y code block will run either way - whether the try block succeeded or failed.) statements.
 
-
-
-
 ### A Debugging Workflow
 
 To narrow down where the problem might be, one should look for clues;
 
 - Identify where is the problem
 - identify what exactly is the problem
-
-
-
