@@ -35,7 +35,7 @@ The background-image property allows you to place an image behind any HTML eleme
     fixed;The background image stays in the same position on the page.
     scroll;The background image moves up and down as the user scrolls up and down the page.
 - background-position:
-![image](img/background-image.png =150x50)
+![image](img/background-image.png)
 
 You can add image rollovers and sprites and a third style when they click on it.
 
