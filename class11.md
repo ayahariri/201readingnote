@@ -2,11 +2,13 @@
 
 Images are very important elements that create a touch to your design. Controlling size of images, aligning and adding background images is important to understand how to use on CSS in order to create a clean well designed web page.
 
-## I. Controlling Size of Images
+## Images on CSS
+
+### I. Controlling Size of Images
 
 You can control the size of an image by using the width and height properties in CSS. Specifying images by creating an *ID* or *class* can really help the page load more smoothly.
 
-## II. Aligning & Centering Images using CSS
+### II. Aligning & Centering Images using CSS
 
 There are two efficient ways in **aligning** your images on CSS through the float property.
 
@@ -20,7 +22,7 @@ Once it has been made into a block-level element, there are two common ways in w
 1. On the containing element, you can use the text-align property with a value of center.
 2. On the image itself, you can use the use the margin property and set the values of the left and right margins to auto.
 
-## III. Background Images
+### III. Background Images
 
 The background-image property allows you to place an image behind any HTML element, which is either filled by the entire page or just part of a page. Depending on it's size,by default, a background image will keep repeating to fill the entire box. If this case happens, then we would use the following:
 
@@ -35,4 +37,42 @@ The background-image property allows you to place an image behind any HTML eleme
 - background-position:
 ![image](img/background image.png)
 
-You can add image rollovers and sprites and a third style when they click on it. 
+You can add image rollovers and sprites and a third style when they click on it.
+
+## Practical Information
+
+There are several practicl information that can help launch a website.
+
+The Search Engine Optimization (SEO). There are the key concepts so you can improve your website's visibility on search engines.
+
+### The basics
+
+Search engine optimization (or SEO) is the practice of trying
+to help your site appear nearer the top of search engine results when people look for the topics that your website covers.
+
+### On-Page Techniques
+
+In every page of a website there are seven key places where keywords can appear in order to improve its findability.
+
+![on-page](img/on-page.png)
+
+Deciding what keywords to use on your can is very important so the flow for the user to find certain things is easy.
+
+### Off-Page Techniques
+
+You have access to the history and data of how many users have visited your website with the *overview page*.
+
+- **visits** ; is the number of times people have come to your site.
+- **unique visits** ; is the total number of people who have visited your site over the specified period.
+- **page views** ; is the total number of pages all visitors have viewed on your site.
+- **pages per visit** ; is theaverage number of pages each visitor has looked at on your site per visit.
+- **average time on site** ; is the average amount of time each user has spent on the site per visit.
+- **date selector** ; you can change the period of time the reports display.
+- **export** ; allows you to export the statistics on this page for other applications such as Excel (into data).
+
+You can also get more detailed information based on the following:
+
+- **pages** ; tells you which pages your visitors are looking at the most and also which pages they are spending the most time on.
+- **landing pages** ; are the pages that people arrive on when first visiting your site.
+- **top exit pages** ; shows which pages people most commonly leave from.
+- **bounce rate** ;  shows the number of people who left on the same page that they arrived on.
