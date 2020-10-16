@@ -35,7 +35,7 @@ The background-image property allows you to place an image behind any HTML eleme
     fixed;The background image stays in the same position on the page.
     scroll;The background image moves up and down as the user scrolls up and down the page.
 - background-position:
-![image](img/background image.png)
+![image](img/background-image.png =150x50)
 
 You can add image rollovers and sprites and a third style when they click on it.
 
@@ -54,7 +54,7 @@ to help your site appear nearer the top of search engine results when people loo
 
 In every page of a website there are seven key places where keywords can appear in order to improve its findability.
 
-![on-page](img/on-page.png =100x20)
+![on-page](img/on-page.png)
 
 Deciding what keywords to use on your can is very important so the flow for the user to find certain things is easy.
 
