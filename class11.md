@@ -54,7 +54,7 @@ to help your site appear nearer the top of search engine results when people loo
 
 In every page of a website there are seven key places where keywords can appear in order to improve its findability.
 
-![on-page](img/on-page.png)
+![on-page](img/on-page.png =100x20)
 
 Deciding what keywords to use on your can is very important so the flow for the user to find certain things is easy.
 
