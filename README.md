@@ -23,4 +23,4 @@ This site will cover all the material for the 201 coding course in a summarized 
 - [More about Layout in HTML & CSS](https://ayahariri.github.io/201readingnote/class08)
 - [Forms, Lists & Table on HTML/CSS & Events on JavaScript](https://ayahariri.github.io/201readingnote/class09)
 - [Error Handling & Debugging on JavaScript](https://ayahariri.github.io/201readingnote/class10)
-- [Images & Practical Information on HTML & CSS]()
+- [Images & Practical Information on HTML & CSS](https://ayahariri.github.io/201readingnote/class11)
