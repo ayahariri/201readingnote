@@ -25,3 +25,4 @@ This site will cover all the material for the 201 coding course in a summarized 
 - [Error Handling & Debugging on JavaScript](https://ayahariri.github.io/201readingnote/class10)
 - [Images & Practical Information on HTML & CSS](https://ayahariri.github.io/201readingnote/class11)
 - [Using Charts with Charts/Javascript](https://ayahariri.github.io/201readingnote/class12)
+- [The Past, Present & Future of Local Storage for web application](https://ayahariri.github.io/201readingnote/class13)
