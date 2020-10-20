@@ -71,17 +71,8 @@ Applying the animation;
 8. **Inset Border**
 ![border](img/border.png)
 
-
 ### Animation
 
 *Animation* basically picks up where the transitions leave off.
 To set multiple points at which an element should undergo a transition,we use the **@keyframes** rule, which includes the animation name, any animation breakpoints, and the properties intended to be animated.
 ![Example3](img/exmple3.png)
-
-## How to build a Good Team
-
-Being a good team-member has increased in demand and meaning over the past few years. Google learned through research and experience that there is a way to build the perfect team.
-
-1. A good team is said to have members taking turns and having the same time to speak freely and in equal time.
-2. Good team members have high *average social sensitivity* — being skilled at intuiting how others feel based on their tone of voice and expressions.
-3. Respecting one another, by having all members of the team speak before the end of the group work. And more importantly being able to speak your mind and ideas without the sense of judgement between one another.
